@@ -4,7 +4,7 @@ This assessment was created by community members as part of the [Security Pals](
 
 November 26, 2023
 
-Authors: Igor Rodrigues (@Igor8mr), Matthew Gong (@MatthewZGong), Kushal Kothari
+Authors: Igor Marcelino (@Igor8mr), Matthew Gong (@MatthewZGong), Kushal Kothari
 (@Kushal-kothari) and Devyani Bairagya (@devyani-14).
 
 Contributors/Reviewers: Pranava Kumar Vemula (@Rana-KV), Doug Davis (@duglin),
